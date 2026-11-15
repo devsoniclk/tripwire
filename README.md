@@ -1,5 +1,10 @@
 # tripwire
 
+[![Follow on GitHub](https://img.shields.io/github/followers/devsoniclk?label=Follow%20%40devsoniclk&style=social)](https://github.com/devsoniclk)
+[![Star on GitHub](https://img.shields.io/github/stars/devsoniclk/tripwire?style=social)](https://github.com/devsoniclk/tripwire)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+
 An agent stuck in a loop can spend your monthly budget in an afternoon. I know because it happened to me. tripwire is the thing I wish I'd had.
 
 It's a budget guard that watches token spend and tool calls in real time. When the agent hits your cap — or starts looping the same call 40 times — it raises `BudgetExceeded` and stops.
@@ -66,3 +71,10 @@ override_pricing("my-finetuned-model", input_per_1k=0.002, output_per_1k=0.01)
 ## License
 
 MIT
+
+---
+
+### 🌟 Part of the Sovereign Agent Fleet
+Engineered by **[Lakshitha Dananjaya](https://github.com/devsoniclk)** (`@devsoniclk`) | [X / Twitter](https://x.com/BeingDananjaye) | [dlxconsult.com](https://dlxconsult.com)
+
+⭐ **Star this repository** to bookmark it and follow [@devsoniclk](https://github.com/devsoniclk) for production-grade agent security and quant trading tools.
